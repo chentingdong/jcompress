@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-#include "iostream.h"
+#include <iostream>
 
 #define invroot2 0.7071067814
 
